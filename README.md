@@ -14,3 +14,5 @@
 
 ## Current Decision: We are currently leaning towards endometriosis as of now since we have a more established idea with our current dataset compared to cardiac ECG and CMR data
   
+#Team Plan:
+#https://docs.google.com/spreadsheets/d/1TUUEXa37Q9pganrWsx7lFlimVTslEGeHX7SFefxw84k/edit?usp=sharing 
