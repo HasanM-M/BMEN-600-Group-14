@@ -12,7 +12,7 @@
 ### Data Intepretation: Isabel (lead) - Urbana (Collaborators)
 ### Model Implementation: Hasan (lead) - Isabel (Collaborators)
 ### Data Analysis & Validation:  Hasan, Isabel (leads)
-### Ethics & End-User Analysis: Hope (lead) - Hasan (Collaborators)
+### Ethics & End-User Analysis: Hope (lead) - Hasan, Urbana (Collaborators)
 
 ## GANNT Chart
 ### https://docs.google.com/spreadsheets/d/1TUUEXa37Q9pganrWsx7lFlimVTslEGeHX7SFefxw84k/edit?usp=sharing 
