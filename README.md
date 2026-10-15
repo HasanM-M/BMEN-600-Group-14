@@ -4,8 +4,8 @@
 
 ## Project Decision
 ### RQ: To what extent does a pretrained ECG foundation model capture information about cardiac abnormalities beyond that represented by conventional ECG measurements?
-### Dataset: https://www.physionet.org/content/ptbdb/1.0.0/ OR https://physionet.org/content/ptb-xl/1.0.3/
-### Planning on using ECG-FM and ECG Semantic Integrator (ESI)  
+### Dataset: https://springernature.figshare.com/collections/_/5779802
+### Planning on using ECG-FM 
 
 ## Team Plan
 ### Literature Review: Urbana (lead) - Hasan, Hope (Collaborators)
