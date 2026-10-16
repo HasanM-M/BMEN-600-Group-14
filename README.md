@@ -4,13 +4,15 @@
 
 ## RQ: To what extent does a pretrained ECG foundation model capture information about cardiac abnormalities beyond that represented by conventional ECG measurements?
 ### Dataset Acess: The SPH dataset was downloaded from https://springernature.figshare.com/collections/_/5779802 and uploaded to Google Drive under the file name "SPH_DATA" where it is then accessed through GoogleColab. The dataset is organized as shown below:
-#### SPH_DATA
-#### L records
-####    L A00001.h5
-####    L A00002.h5
-####    L ...
-#### L metadata.csv
-#### L code.csv
+```
+SPH_DATA/
+├── records/
+│   └── A00001.h5
+│   └── A00002.h5
+│   └── ...
+├── metadata.csv/
+├── code.csv/
+```
 
 ## Team Plan
 ### Literature Review: Urbana (lead) - Hasan, Hope (Collaborators)
