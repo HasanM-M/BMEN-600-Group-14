@@ -13,7 +13,7 @@ SPH_DATA/
 ├── metadata.csv/
 ├── code.csv/
 ```
-### Current Progress: The code for current progress can be viewed [here](/Conventional Statistical Classification/ConventionalStatisticalClassification.ipynb) 
+### Current Progress: The code for current progress can be viewed [here](Conventional%Statistical%Classification/ConventionalStatisticalClassification.ipynb) 
 ## Team Plan
 ### Literature Review: Urbana (lead) - Hasan, Hope (Collaborators)
 ### Data Intepretation: Isabel (lead) - Urbana (Collaborators)
